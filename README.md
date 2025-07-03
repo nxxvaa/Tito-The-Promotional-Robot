@@ -32,14 +32,21 @@ Whether you’re showcasing products or demonstrating robotics, Tito makes your 
 
 | Component                     | Quantity |
 |------------------------------|----------|
-| Raspberry Pi 4 / 3B+         | 1        |
+| Arduino Mega                 | 1        |
 | Hoverboard motors + ESC      | 2 (or 4) |
 | HC-SR04 Ultrasonic Sensor    | 4–6      |
 | Motor Driver (e.g., VESC)    | 2+       |
 | 12–36V Li-ion Battery        | 1        |
 | Power Regulation Circuit     | 1        |
 | Robot Frame / Chassis        | 1        |
-| Optional: LIDAR              | 1        |
+| Optional: Bluetooth Module   | 1        |
+| 27 Inch Touch Screen         | 1        |
+| DC-DC Buck Converter         | 1        |
+| Neon Strips for backlight    | 1        |
+| Inverter                     | 1        |
+| Raspberry pi 4               | 1        |
+| Aluminum Extrusion Profile1m | 4        |
+| 3mm Stainless Steel Sheet    | 3        |
 
 ---
 
@@ -63,11 +70,32 @@ Whether you’re showcasing products or demonstrating robotics, Tito makes your 
 ### 2. Wire Up Components
 - Connect ultrasonic sensors to GPIO pins.
 - Connect ESCs to Pi and power distribution system.
+- ![image](https://github.com/user-attachments/assets/d0650c3c-c89f-4247-be8a-4fb0f88f37f3)
 
-### 3. Install Dependencies
+
+### 3. Recommendations
+
+• I DO NOT RECOMMEND using 3D Printed Material in this project. You should us plastic or
+fiber glass and there are multiple manufacturers in Egypt.
+• Aluminum for the profiles would be light weight and suitable.
+• I DO NOT RECOMMEND skipping steps or changing the steps order each step is important to
+be taken one at a time.
+• Each step reveals a new modification in the design and the internal structure so be patient.
+• You have to be flexible with components but never compensate in the material or the
+structure.
+• The design needs modifications for Neon Inserts and air cooling.
+• The use of a fan for cooling should be studied.
+• The timeline is always flexible.
+• Modify the wheel plates for the project.
+• Try to create new supports for body fixation with the robot.
+• Make space for the cooling fans.
+
+### 4. Install Dependencies
 ```bash
 sudo apt update
 sudo apt install python3-pip
 pip3 install rpi.gpio numpy
 # For SLAM:
 # sudo apt install ros-<distro>-gmapping (if using ROS)
+
+
