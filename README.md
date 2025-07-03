@@ -2,7 +2,7 @@
 
 > Innovation is meant to be shared — not stolen.
 
-Tito is a mobile promotional robot designed for events, exhibitions, and interactive product showcases. Originally created by me, the design was unfortunately used without permission by a commercial entity. As a response, I’m making **Tito fully open-source** so anyone can build, modify, and deploy it freely.
+Tito is a mobile promotional robot designed for events, exhibitions, and interactive product showcases. Originally created by me, the design was unfortunately used without permission by a commercial entity. As a response, I’m making **Tito fully open-source** so anyone can build, modify, and deploy it freely. (Please Note that I made this while I was graduating so excuse the mess :) )
 
 ---
 
@@ -75,20 +75,17 @@ Whether you’re showcasing products or demonstrating robotics, Tito makes your 
 
 ### 3. Recommendations
 
-• I DO NOT RECOMMEND using 3D Printed Material in this project. You should us plastic or
-fiber glass and there are multiple manufacturers in Egypt.
-• Aluminum for the profiles would be light weight and suitable.
-• I DO NOT RECOMMEND skipping steps or changing the steps order each step is important to
-be taken one at a time.
-• Each step reveals a new modification in the design and the internal structure so be patient.
-• You have to be flexible with components but never compensate in the material or the
-structure.
-• The design needs modifications for Neon Inserts and air cooling.
-• The use of a fan for cooling should be studied.
-• The timeline is always flexible.
-• Modify the wheel plates for the project.
-• Try to create new supports for body fixation with the robot.
-• Make space for the cooling fans.
+- I DO NOT RECOMMEND using 3D Printed Material in this project. You should us plastic or fiber glass and there are multiple manufacturers in Egypt.
+- Aluminum for the profiles would be light weight and suitable.
+- I DO NOT RECOMMEND skipping steps or changing the steps order each step is important to be taken one at a time.
+- Each step reveals a new modification in the design and the internal structure so be patient.
+- You have to be flexible with components but never compensate in the material or the structure.
+- The design needs modifications for Neon Inserts and air cooling.
+- The use of a fan for cooling should be studied.
+- The timeline is always flexible.
+- Modify the wheel plates for the project.
+- Try to create new supports for body fixation with the robot.
+- Make space for the cooling fans.
 
 ### 4. Install Dependencies
 ```bash
