@@ -87,12 +87,6 @@ Whether you’re showcasing products or demonstrating robotics, Tito makes your 
 - Try to create new supports for body fixation with the robot.
 - Make space for the cooling fans.
 
-### 4. Install Dependencies
-```bash
-sudo apt update
-sudo apt install python3-pip
-pip3 install rpi.gpio numpy
-# For SLAM:
-# sudo apt install ros-<distro>-gmapping (if using ROS)
+
 
 
