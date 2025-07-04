@@ -70,7 +70,7 @@ Whether you’re showcasing products or demonstrating robotics, Tito makes your 
 ### 2. Wire Up Components
 - Connect ultrasonic sensors to GPIO pins.
 - Connect ESCs to Pi and power distribution system.
-- ![image](https://github.com/user-attachments/assets/d0650c3c-c89f-4247-be8a-4fb0f88f37f3)
+ ![image](https://github.com/user-attachments/assets/d0650c3c-c89f-4247-be8a-4fb0f88f37f3)
 
 
 ### 3. Recommendations
