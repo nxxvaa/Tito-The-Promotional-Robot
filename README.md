@@ -13,6 +13,8 @@ Tito is a mobile promotional robot designed for events, exhibitions, and interac
 - **SLAM (Simultaneous Localization and Mapping)** to generate maps of indoor spaces
 - A **Raspberry Pi** for onboard control
 - **Hoverboard motors** salvaged from standard boards for mobility and torque
+- **Tito's Design Files link:** https://drive.google.com/file/d/1_jGXkfci0HQEpM_XDMxM3rsw-7Zbl0u4/view?usp=sharing
+
 
 Whether you’re showcasing products or demonstrating robotics, Tito makes your work stand out — literally and technically.
 
